@@ -11,6 +11,7 @@
 ## Command
 
 ```sh
+cd project
 Run php artisan key:generate
 Run php artisan migrate
 Run php artisan serve
