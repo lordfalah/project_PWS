@@ -12,6 +12,7 @@
 
 ```sh
 cd project
+composer install
 Run php artisan key:generate
 Run php artisan migrate
 Run php artisan serve
